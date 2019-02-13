@@ -1,4 +1,4 @@
-# redux && android-redux
+# redux && redux-android
 
 ### snapshot
 

@@ -28,6 +28,9 @@ steps:
   commands:
   - ./gradlew :redux:clean :redux:install :redux:artifactoryPublish
   - ./gradlew :redux-android:clean :redux-android:install :redux-android:artifactoryPublish
+  when:
+    event:
+    - push
 
 - name: release
   image: runmymind/docker-android-sdk

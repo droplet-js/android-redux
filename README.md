@@ -1,4 +1,8 @@
-# redux && redux-android
+# android-redux
+
+[![Build Status](https://cloud.drone.io/api/badges/v7lin/android-redux/status.svg)](https://cloud.drone.io/v7lin/android-redux)
+[ ![Download](https://api.bintray.com/packages/v7lin/maven/redux/images/download.svg) ](https://bintray.com/v7lin/maven/redux/_latestVersion)
+[ ![Download](https://api.bintray.com/packages/v7lin/maven/redux-android/images/download.svg) ](https://bintray.com/v7lin/maven/redux-android/_latestVersion)
 
 ### snapshot
 

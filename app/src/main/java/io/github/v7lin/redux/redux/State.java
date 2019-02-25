@@ -16,7 +16,7 @@ public final class State {
     public final User user;
     public final List<Todo> todos;
 
-    private State(User user, List<Todo> todos) {
+    State(User user, List<Todo> todos) {
         this.user = user;
         this.todos = todos;
     }

@@ -1,8 +1,8 @@
 # android-redux
 
 [![Build Status](https://cloud.drone.io/api/badges/v7lin/android-redux/status.svg)](https://cloud.drone.io/v7lin/android-redux)
-[ ![Download](https://api.bintray.com/packages/v7lin/maven/redux/images/download.svg) ](https://bintray.com/v7lin/maven/redux/_latestVersion)
-[ ![Download](https://api.bintray.com/packages/v7lin/maven/redux-android/images/download.svg) ](https://bintray.com/v7lin/maven/redux-android/_latestVersion)
+[![GitHub tag](https://img.shields.io/github/tag/v7lin/android-redux.svg)](https://github.com/v7lin/android-redux/releases)
+[![API](https://img.shields.io/badge/API-14%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=14)
 
 ### snapshot
 

@@ -37,6 +37,8 @@ steps:
   - ./gradlew :redux:clean :redux:install :redux:artifactoryPublish
   - ./gradlew :redux-android:clean :redux-android:install :redux-android:artifactoryPublish
   when:
+    branch:
+    - master
     event:
     - push
 
